@@ -24,12 +24,6 @@ In addition to data manipulation, visualization techniques were applied to prese
 3. **PowerPoint Presentation:** Summarizes key findings, recommendations, and next steps for Social Buzz.
 
 
-## Next Steps
-
-1. Review the provided SQL scripts for data cleaning and merging.
-2. Explore visualizations to gain insights into Social Buzz's content categories.
-3. Refer to the PowerPoint presentation for detailed findings and recommendations.
-4. Collaborate with the team to plan next steps for Social Buzz's advisory engagement.
 
 
 
